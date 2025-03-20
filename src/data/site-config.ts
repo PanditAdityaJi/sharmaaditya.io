@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Aditya Sharma',
+    subtitle: 'DARKSTAR',
+    description: ,
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -78,26 +78,23 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            href: 'https://github.com'
         }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
+
         {
             text: 'Instagram',
             href: 'https://instagram.com/'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://x.com/Pt_AdityaSharma'
         }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: " I'm Darth Vader, a core electrical engineer with a deep passion for technology and innovation. With expertise spanning robotics, IoT, nanotechnology, RF and analog circuit design, and embedded systems, I thrive on developing cutting-edge solutions. My strong foundation in classical, nuclear, and plasma physics enables me to approach challenges with a multidisciplinary mindset.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
