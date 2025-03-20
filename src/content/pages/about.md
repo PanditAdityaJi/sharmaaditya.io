@@ -7,7 +7,7 @@ seo:
     src: '/about.jpeg'
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](file:///C:/Users/ASXAIVA/OneDrive/Pictures/Screenshot%202023-01-21%20201559.jpg)
 
 ## Aditya Sharma - Electrical Grad
 
