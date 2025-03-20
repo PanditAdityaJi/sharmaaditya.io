@@ -1,6 +1,6 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
+title: 'Bidirectional Flow in EV'
+description: Hybrid electric vehicle with implemention of buck-to-boost DC converter for regenerative braking. Enhanced charging efficiency by 25% using MPPT solar cells and improved system stability with V2G integration.
 publishDate: 'Jan 02 2024'
 seo:
   image:
@@ -13,8 +13,8 @@ seo:
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
-
+Hybrid electric vehicle with implemention of buck-to-boost DC converter for regenerative braking.
+Enhanced charging efficiency by 25% using MPPT solar cells and improved system stability with V2G integration.
 ## Objectives
 
 1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
