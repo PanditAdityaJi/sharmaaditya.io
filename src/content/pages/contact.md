@@ -11,4 +11,4 @@ _Email:_
 Feel free to drop me an email at [example@example.com](mailto:adityasharma.1647@gmail.com), and I'll do my best to respond as soon as possible.
 
 _Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://x.com/Pt_AdityaSharma) or [LinkedIn]((https://www.linkedin.com/in/aditya-sharma-ji/)).
+Connect with me on social media as well. Find me on [Twitter](https://x.com/Pt_AdityaSharma) or [LinkedIn](https://www.linkedin.com/in/aditya-sharma-ji/)).
