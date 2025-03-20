@@ -1,7 +1,7 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
-publishDate: 'Jan 10 2024'
+title: Dancing Bot
+description: Synchronized ATMega 2560 Firebud V Robots & XBee module, enhance Robot choreography techniques
+
 isFeatured: true
 seo:
   image:
